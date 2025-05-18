@@ -1,6 +1,7 @@
 🛡️ SOC (Security Operation Center) Lab
 
-The SOC (Security Operation Center) Lab I developed is designed to simulate, investigate and test real-world cyberattacks in a controlled environment. This hands-on project focuses on understanding both offensive and defensive cybersecurity techniques.
+The SOC (Security Operation Center) Lab I developed is designed to simulate, investigate and test real-world cyberattacks in a controlled environment. 
+This hands-on project focuses on understanding both offensive and defensive cybersecurity techniques.
 
 🔹 Part 1: Exploitation – Reverse Shell Attack via Email Phishing
 In the first phase, I targeted a Windows 10 machine acting as a victim system. The attack vector is email phishing, which delivers a malicious payload.
