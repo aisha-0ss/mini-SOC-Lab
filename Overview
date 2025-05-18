@@ -1,0 +1,9 @@
+SOC Lab: To Investigate and Simulate Attacks
+The SOC (Security Operation Center) Lab I developed is designed to simulate, investigate and test real-word cyberattacks in a controlled environment. This hands-on project focuses on understanding both offensive and defensive cybersecurity techniques.
+
+Part 1: Exploitation – Reverse Shell Attack via Email Phishing
+In the first phase, I targeted a windows 10 machine acting as a victim system. The attack vector is email phishing, which delivers a malicious payload. Once the payload is executed by the victim, a reverse shell connection will be established. Providing me with command-line interface (CLI) access to the victim machine. This stage includes:
+•	Payload creation and delivery 
+•	Session establishment using Meterpreter 
+•	Post-exploitation techniques such as persistence, file system interaction, privilege escalation, lateral movement, and data exfiltration
+
