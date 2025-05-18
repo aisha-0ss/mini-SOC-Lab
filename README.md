@@ -1,12 +1,12 @@
-### <br>### 🔐 SOC Lab - Reverse Shell Attack via Email Phishing<br><br>
+### <br>### SOC Lab - Reverse Shell Attack via Email Phishing<br><br>
 
 
-**📌### _Overview_** 
+**### _Overview_** 
 
 This project simulates a real-world cyberattack scenario in a controlled SOC (Security Operation Center) lab environment. It demonstrates both **offensive** and **defensive** security techniques, focusing on **Reverse shell Attacks** via **Email Phishing.** <br><br>
 
 
-**🎯### _Objectives_** 
+**### _Objectives_** 
 
 - Simulate real-world attack scenarios
 - Understand how attackers deliver payloads through phishing
@@ -15,7 +15,7 @@ This project simulates a real-world cyberattack scenario in a controlled SOC (Se
 
 
 
-**🛠️ _### Lab Setup_**
+**_### Lab Setup_**
 
 - Kali Linux | Attacker machine
 - Windows 10 | Victim machine
@@ -26,7 +26,7 @@ This project simulates a real-world cyberattack scenario in a controlled SOC (Se
 - Custom NAT Network: **meta-lab** (IPv4: 10.0.2.0/24 with DHCP) <br><br>
 
 
-**🧪### _Attack scenario: Reverse Shell via Email Phishing_**  
+**### _Attack scenario: Reverse Shell via Email Phishing_**  
 
 1. Payload creation using msfvenom
 2. delivery of payload via phishing email using Gophish + MailHog (simulated SMTP server)
@@ -38,7 +38,7 @@ This project simulates a real-world cyberattack scenario in a controlled SOC (Se
 - Obtaining system information <br><br>
 
 
-**⚙️ ### _Tools and commands used_**
+**### _Tools and commands used_**
 
 - Metasploit (msfvenom, multi/handler, Meterpreter)
 - MailHog (Port: 1025 for SMTP, 8025 for web UI)
