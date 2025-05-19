@@ -15,7 +15,7 @@ This project simulates a real-world cyberattack scenario in a controlled SOC (Se
 
 
 
-**🔒_### Lab Setup_**
+**🔒### _Lab Setup_**
 
 - Kali Linux | Attacker machine
 - Windows 10 | Victim machine
